@@ -1,6 +1,6 @@
 <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+BEWAFA+X+MUSIC)](https://github.com/abcrahulk/BewafaXMusic)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+BEWAFA+X+MUSIC)](https://github.com/shaeep043/Iro_X)
 
 <h2 align="center">
     ──「 ˹ʙᴇwᴀꜰᴀ ✘ ᴍᴜsɪᴄ˼ 」──
