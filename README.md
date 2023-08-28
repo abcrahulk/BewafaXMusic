@@ -1,12 +1,12 @@
 <h2 align="center">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+IRO+X+MUSIC)](https://github.com/shaeep043/Iro_X)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+IRO+X+MUSIC)](https://github.com/abcrahulk/BewafaXMusic)
 
 <h2 align="center">
-    ──「 Iro X Music 」──
+    ──「 ˹ʙᴇwᴀꜰᴀ ✘ ᴍᴜsɪᴄ˼ 」──
 </h2>
 <p align="center">
-  <img src="https://te.legra.ph/file/7b9bfe8d7fbb2589071e3.jpg">
+  <img src="https://graph.org/file/5fc8dd23ea909c8818e65.jpg">
 </p>
 
 <p align="center">
